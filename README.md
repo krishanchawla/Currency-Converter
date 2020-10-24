@@ -11,7 +11,7 @@ This Project is designed using multiple languages for demo purpose.
 ![Image](https://i.imgur.com/w5ARwdw.jpeg)
 
 ## Contributing
-Pull requests are welcome. You can add the same demo project using any other languages expected the ones already created.
+Pull requests are welcome. You can add the same demo project using any other languages except the ones already created.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
