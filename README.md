@@ -1,10 +1,17 @@
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp" crossorigin="anonymous">
+# Currency Converter
 
-<center><h1>Currency Converter</h1>
+![Image](https://img.shields.io/github/last-commit/krishanchawla/currency-converter) ![Image](https://img.shields.io/github/repo-size/krishanchawla/currency-converter) ![Image](https://img.shields.io/github/followers/krishanchawla?label=Follow%20Me&style=social)
 
-<img src="https://img.shields.io/github/last-commit/krishanchawla/currency-converter" /> &nbsp; <img src="https://img.shields.io/github/repo-size/krishanchawla/currency-converter" /> &nbsp; <img src="https://img.shields.io/github/followers/krishanchawla?label=Follow%20Me&style=social" />
-</center>
+This is a Currency Converter Project which uses External Currency Rates API's in order to get the latest rate and convert it into the required currency. 
 
-This is a Currency Converter Project Desgined using multiple different languages.
+This Project is designed using multiple languages for demo purpose.
 
-<i class="fab fa-gg"></i>
+## Screenshots
+
+![Image](https://i.imgur.com/w5ARwdw.jpeg)
+
+## Contributing
+Pull requests are welcome. You can add the same demo project using any other languages expected the ones already created.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
